@@ -1,1 +1,50 @@
-# DUMP
+<h3 align="left">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="22">
+WELCOME TO TOXIC WORLD 
+  <img src="https://github.com/TOX1C-143/DUMP/edit/main/TOXIC/Screenshot_2024-03-31-03-33-28-034_com.termux.jpg" width="22">
+</h3>
+
+ 
+
+<img src="https://github.com/TOX1C-143/TOX1C-143/blob/main/Image/pinterestdownloader.com-1707863065.6401.gif" alt="" border="0" />
+
+ 
+
+![Alt text](https://github.com/TOX1C-143/TOX1C-143/blob/main/Image/pinterestdownloader.com-1707863915.135713.gif)
+
+ 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=TOXIC+143;IT'S+NOT+A+NAME;IT'S+BRAND+BRO)](https://git.io/typing-svg)
+
+ 
+
+# Installation ☯️
+
+ 
+
+- `pkg update` 
+
+- `pkg upgrade`
+
+- `pkg install git` 
+
+- `pkg install python`
+
+- `pip install rich`
+
+- `pip install bs4`
+
+- `rm -rf Toxic_404`
+
+- `git clone https://github.com/Tox1c-143/Toxic_404.git`
+
+- `cd Toxic_404 `
+
+- `python Toxic__vau.py`
+
+# Thank You For Using my Tools
+
+
+
+
+
