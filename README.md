@@ -6,7 +6,7 @@ WELCOME TO TOXIC WORLD
 
  
 
-<img src="https://github.com/TOX1C-143/TOX1C-143/blob/main/Image/pinterestdownloader.com-1707863065.6401.gif" alt="" border="0" />
+<img src="https://github.com/TOX1C-143/DUMP/edit/main/TOXIC/Screenshot_2024-03-31-03-33-28-034_com.termux.jpg" alt="" border="0" />
 
  
 
